@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Playfair+Display:ital@1&family=Source+Sans+Pro&display=swap');
 * {
     box-sizing: border-box;
     margin: 0;
@@ -35,13 +35,36 @@ header {
 .introduction h1, h2 {
     color:white;
     text-align:center;
-    line-height: 1.6;
     float:right;
     width:calc(100% - 400px - 10px); /* ensures the image is side by side with the text*/
 }
+
+.fullname{
+  font-size:80px;
+  line-height: 1.5;
+}
+.studentof{
+  font-size:35px;
+  line-height: 1.2;
+}
+.course{
+  font-size:45px;
+  line-height: 1.2;
+}
+.school{
+  font-size:55px;
+  line-height: 1.2;
+}
+
+.quote{
+  text-align:center;
+  color:white;
+  font-family: 'Playfair Display', serif;
+}
+
 .introduction p{
     color:white;
-    text-align:center;
+    text-align:left;
     font-size:20px;
     line-height:1.6;
 }

@@ -25,6 +25,7 @@ Home, About, Portfolio, Contact
 
 1/12/2021
 - Touch up on Contact page, added icons for contact.
+- Added more information to About page.
 
 Credit
 - https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible (Collapsible for About)
