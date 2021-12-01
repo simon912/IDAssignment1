@@ -15,23 +15,35 @@
             </ul>
         </nav>
     </header>
-    <h1 class = "about-title">About me</h1>
-    <div class="about">
-        <br>
-        <button type="button" class="collapsible">Contact Details</button>
-        <div class="content">
-            <ul>
-                <li class="history">Linkedin: </li>
-                <li class="history">Greenridge Secondary School (2015-2018)</li>
-                <ul>
-                    <li class="sublist">Graduated with N-level certification</li>
-                </ul>
-                <li class="history">ITE College West (2019-2020)</li>
-                    <ul>
-                        <li class="sublist">Nitec in Infocomm Technology</li>
-                    </ul>
-            </ul>
-    </div>
-    <script src="script.js"></script>
+    <h1 class = "contact-title">Contact Me</h1>
+    <div class="container">
+      <form action="" method="post">
+          <label for="name">Name</label>
+          <input type="text" id="name" name="name">
+      
+          <label for="email">Email Address</label>
+          <input type="text" id="email" name="emailaddress">
+      
+          <label for="gender">Gender</label>
+          <select id="gender" name="gender">
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+          </select>
+      
+          <label for="subject">Subject</label>
+          <textarea id="subject" name="subject" style="height:100px"></textarea>
+      
+          <button class=button onclick="return formFunction()">Submit</button>
+          <script src="script.js"></script>
+        </form>
+      </div>
+      <div class="contact-container">
+        <div><a href="https://www.linkedin.com/in/simon-kwek-4b3285198/"><img src="Icon/linkedinicon.png" width="100" height="100"></a></div>
+        <div><a href="https:///www.facebook.com"><img src="Icon/facebookicon.png" width="100" height="100"></a></div>
+        <div><a href="https:///www.youtube.com"><img src="Icon/youtubeicon.png" width="100" height="100"></a></div>
+        <div><a href="https:///www.twitter.com"><img src="Icon/twittericon.png" width="100" height="100"></a></div>
+        <div><a href="https:///www.instagram.com"><img src="Icon/instagramicon.png" width="100" height="100"></a></div>  
+      </div>
+      
 </body>
 </html>

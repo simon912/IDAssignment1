@@ -19,11 +19,21 @@ Home, About, Portfolio, Contact
 - Worked on index.html along with the CSS script intended for it.
 
 30/11/2021
-- Created About and Portfolio page.
+- Created About, Portfolio and Contact page.
 - Worked on about.html along with the CSS and JavaScript intended for it.
 - Worked on portfolio.html along with the CSS script intended for it.
 
+1/12/2021
+- Touch up on Contact page, added icons for contact.
 
 Credit
 - https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible (Collapsible for About)
 - https://www.w3schools.com/css/css_image_gallery.asp (Image Gallery for Portfolio)
+- https://www.w3schools.com/js/js_validation.asp (Form Validation for Contact)
+
+
+Images
+- https://commons.wikimedia.org/wiki/File:Instagram-Icon.png (Instagram icon)
+- https://commons.wikimedia.org/wiki/File:YouTube_full-color_icon_(2017).svg (Youtube icon)
+- https://commons.wikimedia.org/wiki/File:Facebook_icon_2013.svg (Facebook icon)
+- https://www.flaticon.com/free-icon/linkedin_174857 (Linkedin icon)
