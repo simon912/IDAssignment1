@@ -13,13 +13,7 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 
-
-/*function buttonSubmit() { popup notification for contact page to verify the message is sent
-  alert("Message sent!");
-}
-*/
-
-function formFunction() {
+function formFunction() { /*for contact page to verify if the boxes are filled in*/
   // Get the value of the input field with id="numb"
   let name = document.getElementById("name").value;
   let email = document.getElementById("email").value;
