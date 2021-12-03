@@ -41,8 +41,11 @@ Contact
 
 2/12/2021
 - Touch up on Home/index.html page.
+
 Credit
+
 Content
+
 - https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible (Collapsible for About)
 - https://www.w3schools.com/css/css_image_gallery.asp (Image Gallery for Portfolio)
 - https://www.w3schools.com/js/js_validation.asp (Form Validation for Contact)
